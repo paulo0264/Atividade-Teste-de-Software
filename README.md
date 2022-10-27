@@ -24,17 +24,17 @@ Logo após, instale o pytest:
     pip install pytest
 ```
 
-## Orientações do programa:
+## O Teste de Funções:
 
-O programa consiste em decidir se um identificador é válido. Para ele ser válido ele deve
-começar com uma letra, conter apenas letras e números, e ter no mínimo 1 caractére e 
+O test foi realizado para identifica se os valores são válidos para um teste funcional. Para que seja válido o teste deve
+começar com letra, conter apenas letras e números, e ter no mínimo 1 caractére e 
 no máximo 6. 
 
 src/identifier/identifier.py fica a função.
 
 tests/test_identifier.py saonde ficam os testes das funções
 
-esses foram os testes executados do programa.
+esses foram os casos de testes escolhidos a serem executados.
 ## Testes do programa:
 
 
