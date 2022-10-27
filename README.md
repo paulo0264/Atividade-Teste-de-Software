@@ -38,7 +38,7 @@ esses foram os casos de testes escolhidos a serem executados.
 ## Testes do programa:
 
 
-| ID | Steps | Test Data | RoteiroExpected Results | Actual Result|
+| ID | Steps | Test Data | Expected Results | Actual Result|
 |----|--------|-----------|---------|----------|
 | 1| Usuario informa letras|Inserir letras e numero| Ab56| Válido|
 | 2| Usuario informa letras|Inserir letras| aaaaaa| Válido|
